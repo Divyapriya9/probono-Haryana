@@ -1,0 +1,105 @@
+﻿unit,district,name,gender,panel_since,years,basis,sr_no
+Bhiwani,Bhiwani,Baljeet,M,2025-07-17,16,Pro-Bono Basis,74
+Bhiwani,Bhiwani,Kuldeep Sharma,M,2025-07-17,16,Pro-Bono Basis,75
+Bhiwani,Bhiwani,Naveen Kumar,M,2025-07-17,18,Pro-Bono Basis,76
+Bhiwani,Bhiwani,Pardeep Kumar Vashista,M,2025-07-17,18,Pro-Bono Basis,77
+Bhiwani,Bhiwani,Sunil Atri,M,2025-07-17,14,Pro-Bono Basis,78
+Tosham,Bhiwani,Pawan,M,2026-03-25,18,Pro-Bono Basis,125
+Tosham,Bhiwani,Rishi Pal,M,2026-03-25,7,Pro-Bono Basis,128
+Tosham,Bhiwani,Sanjay Kumar,M,2026-03-25,16,Pro-Bono Basis,131
+Tosham,Bhiwani,Suresh Kumar,M,2026-03-25,19,Pro-Bono Basis,136
+Ambala,Ambala,Nitesh Sahni,M,2025-04-01,29,Pro-Bono Basis,30
+Ambala,Ambala,Renu Bala,F,2025-04-01,39,Pro-Bono Basis,31
+Naraingarh,Ambala,Devinder Singh,M,2026-03-23,27,Pro-Bono Basis,51
+Ratia,Fatehabad,Ram Chand,M,2026-04-21,11,Pro-Bono Basis,250
+Ratia,Fatehabad,Vakeel Singh,M,2026-04-21,10,Pro-Bono Basis,260
+Tohana,Fatehabad,Anoopa Sharma,F,2026-04-22,17,Pro-Bono Basis,277
+Gurugram,Gurugram,Abhiranjana Sharma,F,2024-10-07,22,Pro-Bono Basis,326
+Gurugram,Gurugram,Amit Kumar Tyagi,M,2024-10-07,21,Pro-Bono Basis,327
+Gurugram,Gurugram,Attar Singh Sandhu,M,2024-10-07,24,Pro-Bono Basis,329
+Gurugram,Gurugram,Atul Saubhri,M,2024-10-07,8,Pro-Bono Basis,328
+Gurugram,Gurugram,Bandana Aggarwal,F,2024-10-07,43,Pro-Bono Basis,332
+Gurugram,Gurugram,Banwari Lal Bhinwal,M,2024-10-07,23,Pro-Bono Basis,330
+Gurugram,Gurugram,Bhagwanti Sethi,F,2024-10-07,22,Pro-Bono Basis,331
+Gurugram,Gurugram,Dheeraj Grover,M,2024-10-07,16,Pro-Bono Basis,333
+Gurugram,Gurugram,Gopi Nath Chauhan,M,2024-10-07,14,Pro-Bono Basis,334
+Gurugram,Gurugram,Inderjeet Yadav,M,2024-10-07,17,Pro-Bono Basis,335
+Gurugram,Gurugram,Jitender Kumar,M,2024-10-07,19,Pro-Bono Basis,336
+Gurugram,Gurugram,Kavita Rani,F,2024-10-07,18,Pro-Bono Basis,337
+Gurugram,Gurugram,Kulbir Singh,M,2024-10-07,7,Pro-Bono Basis,338
+Gurugram,Gurugram,Mahavir Singh Dhariwal,M,2024-10-07,21,Pro-Bono Basis,339
+Gurugram,Gurugram,Munmun Goyal,F,2024-10-07,13,Pro-Bono Basis,340
+Gurugram,Gurugram,Naresh Chandra Gupta,M,2024-10-07,43,Pro-Bono Basis,341
+Gurugram,Gurugram,Neeraj Deshwal,M,2024-10-07,12,Pro-Bono Basis,342
+Gurugram,Gurugram,Neetu Kumari,F,2024-10-07,14,Pro-Bono Basis,343
+Gurugram,Gurugram,Raj Bala Sharma,F,2024-10-07,25,Pro-Bono Basis,347
+Gurugram,Gurugram,Ram Dutt Sharma,M,2024-10-07,14,Pro-Bono Basis,345
+Gurugram,Gurugram,Reenu Maheshwari,F,2024-10-07,18,Pro-Bono Basis,344
+Gurugram,Gurugram,Rohini Yadav,F,2024-10-07,15,Pro-Bono Basis,346
+Gurugram,Gurugram,Sandeep Kumar,M,2024-10-07,19,Pro-Bono Basis,348
+Gurugram,Gurugram,Seema,F,2024-10-07,15,Pro-Bono Basis,349
+Gurugram,Gurugram,Suman Sehrawat,F,2024-10-07,14,Pro-Bono Basis,351
+Gurugram,Gurugram,Sunita,F,2024-10-07,11,Pro-Bono Basis,350
+Gurugram,Gurugram,Tezpal Singh Yadav,M,2024-10-07,23,Pro-Bono Basis,352
+Gurugram,Gurugram,Vijay Kumar,M,2024-10-07,10,Pro-Bono Basis,355
+Gurugram,Gurugram,Vijay Pal,M,2024-10-07,23,Pro-Bono Basis,353
+Gurugram,Gurugram,Vinita,F,2024-10-07,12,Pro-Bono Basis,358
+Gurugram,Gurugram,Vinod Budgujar,M,2024-10-07,24,Pro-Bono Basis,356
+Gurugram,Gurugram,Vinod Kumar Kaushik,M,2024-10-07,16,Pro-Bono Basis,357
+Gurugram,Gurugram,Virender Jain,M,2024-10-07,6,Pro-Bono Basis,354
+Hisar,Hisar,Parveen Singh,M,2026-04-02,16,Pro-Bono Basis,398
+Narwana,Jind,Rajesh,M,2026-02-17,17,Pro-Bono Basis,592
+Narwana,Jind,Vikram,M,2026-02-17,21,Pro-Bono Basis,593
+Safidon,Jind,Paryash Kumar,M,2026-02-17,18,Pro-Bono Basis,612
+Safidon,Jind,Surender Kumar,M,2026-02-17,17,Pro-Bono Basis,611
+Kaithal,Kaithal,Jai Bhagwan Sharma,M,2025-08-03,12,Pro-Bono Basis,708
+Kaithal,Kaithal,Nisha Devi,F,2025-08-03,10,Pro-Bono Basis,721
+Kaithal,Kaithal,Pawan Kumar,M,2025-08-03,7,Pro-Bono Basis,696
+Kaithal,Kaithal,Pawan Kumar Midha,M,2025-08-03,17,Pro-Bono Basis,710
+Assandh,Karnal,Gurpreet Singh,M,2025-11-12,16,Pro-Bono Basis,681
+Assandh,Karnal,Karan Singh,M,2025-11-12,15,Pro-Bono Basis,676
+Indri,Karnal,Anil Kumar,M,2026-01-28,16,Pro-Bono Basis,669
+Indri,Karnal,Arun Kumar,M,2026-01-28,19,Pro-Bono Basis,668
+Karnal,Karnal,Anita Singh,F,2026-05-08,,Pro-Bono Basis,648
+Karnal,Karnal,Babu Ram,M,2026-05-08,27,Pro-Bono Basis,647
+Karnal,Karnal,Karan Singh Chaudhary,M,2026-05-08,4,Pro-Bono Basis,643
+Karnal,Karnal,Krishan,M,2026-05-08,3,Pro-Bono Basis,645
+Karnal,Karnal,Shyam Singh Rana,M,2026-05-08,25,Pro-Bono Basis,649
+Karnal,Karnal,Sompal Sharma,M,2026-05-08,3,Pro-Bono Basis,644
+Karnal,Karnal,Sukhdev Raj Kathuria,M,2026-05-08,6,Pro-Bono Basis,650
+Karnal,Karnal,Suresh Kumar,M,2026-05-08,27,Pro-Bono Basis,646
+Kurukshetra,Kurukshetra,Divya,F,2025-01-10,2,Pro-Bono Basis,796
+Kurukshetra,Kurukshetra,Mohit Goyal,M,2025-01-10,25,Pro-Bono Basis,794
+Kurukshetra,Kurukshetra,Narender Singh,M,2025-01-10,2,Pro-Bono Basis,797
+Kurukshetra,Kurukshetra,Ritu Devi,F,2025-01-10,11,Pro-Bono Basis,795
+Kurukshetra,Kurukshetra,Sachin Bansal,M,2025-01-10,8,Pro-Bono Basis,798
+Kurukshetra,Kurukshetra,Sushant Singh,M,2025-01-10,8,Pro-Bono Basis,799
+Kalka,Panchkula,Dinesh Gupta,M,2026-03-31,17,Pro-Bono Basis,1116
+Panchkula,Panchkula,Mahender Singh,M,2026-04-13,12,Pro-Bono Basis,1092
+Panchkula,Panchkula,Manbir Singh Rathi,M,2026-04-13,20,Pro-Bono Basis,1093
+Panchkula,Panchkula,Om Parkash,M,2026-04-13,20,Pro-Bono Basis,1095
+Panchkula,Panchkula,Ritu S Sharma,F,2026-04-13,26,Pro-Bono Basis,1098
+Panchkula,Panchkula,Sikander Bakshi,M,2026-04-13,22,Pro-Bono Basis,1104
+Rewari,Rewari,Anita Sharma,F,2023-05-25,18,Pro-Bono Basis,1187
+Rewari,Rewari,Jyoti Sharma,F,2023-05-25,16,Pro-Bono Basis,1188
+Rewari,Rewari,Lalita Kumari,F,2023-05-25,20,Pro-Bono Basis,1189
+Rewari,Rewari,Naveen Jangra,M,2023-05-25,20,Pro-Bono Basis,1190
+Rewari,Rewari,Sandeep Kumar,M,2023-05-25,17,Pro-Bono Basis,1191
+Rohtak,Rohtak,Mukesh,F,2026-02-17,17,Pro-Bono Basis,1134
+Rohtak,Rohtak,Parveen Kumar Kalson,M,2026-02-17,16,Pro-Bono Basis,1137
+Sonipat,Sonipat,Bijender Singh Antil,M,2025-08-02,15,Pro-Bono Basis,1295
+Sonipat,Sonipat,Indu,F,2025-08-02,15,Pro-Bono Basis,1296
+Sonipat,Sonipat,Jagmohan Sharma,M,2025-08-02,17,Pro-Bono Basis,1292
+Sonipat,Sonipat,Kailash Chander Dalal,M,2025-08-02,12,Pro-Bono Basis,1300
+Sonipat,Sonipat,Manoj Kumar S/o Jaipal,M,2025-08-02,12,Pro-Bono Basis,1299
+Sonipat,Sonipat,Naterpal,M,2025-08-02,18,Pro-Bono Basis,1291
+Sonipat,Sonipat,Rajvir Singh,M,2025-08-02,21,Pro-Bono Basis,1290
+Sonipat,Sonipat,Shiv Prasad,M,2025-08-02,17,Pro-Bono Basis,1293
+Sonipat,Sonipat,Sonu Rani,F,2025-08-02,12,Pro-Bono Basis,1298
+Sonipat,Sonipat,Sunil Dahiya,M,2025-08-02,16,Pro-Bono Basis,1294
+Sonipat,Sonipat,Usha Rani,F,2025-08-02,14,Pro-Bono Basis,1297
+SLSA Haryana,State office,Ekta Thakur,F,2026-05-29,25,Pro-Bono Basis,1572
+SLSA Haryana,State office,Jyoti Choudhary,F,2026-05-29,28,Pro-Bono Basis,1573
+Bilaspur,Yamunanagar,Anil Kumar,M,2026-01-28,19,Pro-Bono Basis,1522
+Bilaspur,Yamunanagar,Arun Kumar,M,2026-01-28,21,Pro-Bono Basis,1518
+Bilaspur,Yamunanagar,Sanjay Singh,M,2026-01-28,15,Pro-Bono Basis,1519

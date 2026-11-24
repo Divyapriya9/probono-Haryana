@@ -11,12 +11,12 @@ It was copied by an AI reader, NOT by a person: spot-check every row against the
 import csv, json, os
 
 # ============================ CONFIG ========================================
-SITE_URL     = "https://YOURNAME.github.io/haryana-free-legal-aid/"   # <- change after you publish
+SITE_URL     = "https://divyapriya9.github.io/haryana-free-legal-aid/"   # <- change after you publish
 CONTACT_TEXT = "Report a mistake or ask for a name to be removed:"
-CONTACT_LINK = "https://github.com/YOURNAME/haryana-free-legal-aid/issues"  # or "mailto:you@example.com"
+CONTACT_LINK = "https://github.com/divyapriya9/haryana-free-legal-aid/issues"  # or "mailto:you@example.com"
 CONTACT_LABEL= "open an issue / write to the site owner"
 # Be truthful here. Suggested wording; put YOUR real name and only claim the checking you actually did.
-AUTHOR_LINE  = ("Compiled by YOUR NAME with AI assistance (Claude, by Anthropic). The AI read the official PDF and wrote the "
+AUTHOR_LINE  = ("Compiled by Divyapriya with AI assistance (Claude, by Anthropic). The AI read the official PDF and wrote the "
                 "code; the volunteer chose the project, directed the work and checked the entries against the PDF on DATE.")
 # ============================================================================
 
